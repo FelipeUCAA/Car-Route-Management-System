@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="220" alt="Carbon Defuse Logo" src="https://github.com/user-attachments/assets/804996da-c484-4b34-9fb4-d134da2c132d" />
@@ -110,6 +109,18 @@ CO₂ emitido = Litros consumidos × Fator de emissão do combustível
 | Ícones e UI   | Lucide Icons, Motion, Sonner         |
 | Back-end      | Node.js, Express, Prisma, SQLite     |
 | Versionamento | Git e GitHub                         |
+
+---
+
+# 🗄️ Modelagem do Banco de Dados
+
+O Carbon Defuse utiliza um banco de dados relacional para armazenar usuários, viagens e simulações. A modelagem foi desenvolvida utilizando o Prisma ORM e contempla os relacionamentos entre as principais entidades do sistema.
+
+<div align="center">
+  
+<img width="1536" height="1024" alt="DIAGRAMA" src="https://github.com/user-attachments/assets/9e1b9586-5bcf-4738-abaa-23e2480e92a4" />
+
+</div>
 
 ---
 
